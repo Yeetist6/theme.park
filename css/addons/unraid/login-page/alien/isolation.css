@@ -1,8 +1,8 @@
-@import url("/theme.park/css/addons/unraid/login-page/alien/alien-base.css");
+@import url("/Yeetist6/css/addons/unraid/login-page/alien/alien-base.css");
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
-    url(/theme.park/css/addons/unraid/login-page/alien/wallpaper/isolation.png) center center/cover no-repeat fixed;
-    --logo: url(/theme.park/css/addons/unraid/login-page/alien/logo/Ratatoskr.png) center no-repeat;
+    url(/Yeetist6/css/addons/unraid/login-page/alien/wallpaper/isolation.png) center center/cover no-repeat fixed;
+    --logo: url(/Yeetist6/css/addons/unraid/login-page/alien/logo/Ratatoskr.png) center no-repeat;
     --text-color: #37f592;
     --input-color: #37f592;
     --link-color: #37f592;
